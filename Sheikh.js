@@ -61,7 +61,7 @@ function buildPage(page, pushname) {
 // 🔰 Main menu command
 cmd(
   {
-    pattern: 'menu',
+    pattern: 'sheikh',
     alias: ['sheikh'],
     desc: 'Show paginated menu',
     category: 'main',
